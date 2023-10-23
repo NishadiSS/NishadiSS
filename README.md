@@ -5,7 +5,7 @@ I am a student of university of kelaniya. I am following BSc(hons) computer scie
 ## Education
 ### school
 * G/Sangamitta girl's collage
-* **Address:**Kahadandaela, Kahaduwa
+* **Address:**Matara
 ### University 
 * **Degree:** BSc (hons computer science) 
 * **University:** University of kelaniya
