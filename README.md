@@ -2,7 +2,7 @@
 
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="750" src="https://cdn.leverageedu.com/blog/wp-content/uploads/2020/03/03135218/Vedica-Scholars-Programme-for-Women.jpg" alt="codingGirl">
+  <img width="750" src="https://th.bing.com/th/id/OIP.29vwXSUxlXXJkGLqP9hjXAHaGD?w=626&h=512&rs=1&pid=ImgDetMain" alt="codingGirl">
 </p>
 
 👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
