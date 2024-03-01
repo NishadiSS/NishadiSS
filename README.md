@@ -6,7 +6,7 @@
 </p>
 
 👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
-<br>🧠 I'm currently learning python and web development.
+<br>🧠 I'm currently learning Data Analytics.
 <br>
 👯 I’m looking to collaborate on
 <br>
