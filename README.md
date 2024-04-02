@@ -4,7 +4,7 @@
 <p align="center">
   <img width="50%" align="right"  src="https://th.bing.com/th/id/OIP.29vwXSUxlXXJkGLqP9hjXAHaGD?w=626&h=512&rs=1&pid=ImgDetMain" alt="codingGirl">
 </p>
- I'm Nishadi Sasanthika, a third-year student in computer science Specialized in Data Science at the University Of Kelaniya. As a computer science student, I would love to leverage my skills and knowledge to advance technology and solve practical problems. I'm looking for opportunities to collaborate, learn from industry professionals, or work with innovative technologies that can shape the future.
+ I'm Nishadi Sasanthika, a third-year computer science student specializing in Data Science at the University of Kelaniya. With a passion for leveraging technology to solve real-world problems, I am eager to explore opportunities for collaboration, learning from industry professionals, and working with innovative technologies that can drive positive change and shape the future.
 
 <br>🧠 I'm currently learning Data Analytics.
 <br>
