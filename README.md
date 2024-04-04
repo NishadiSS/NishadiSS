@@ -29,13 +29,12 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) 
