@@ -4,7 +4,7 @@
 <p align="center">
   <img width="50%" align="right"  src="https://th.bing.com/th/id/OIP.29vwXSUxlXXJkGLqP9hjXAHaGD?w=626&h=512&rs=1&pid=ImgDetMain" alt="codingGirl">
 </p>
- Driven and enthusiastic third-year Computer Science student specializing in Data Science at the esteemed University of Kelaniya. With a passion for uncovering insights from data and solving real-world problems, I am dedicated to honing my skills in machine learning, statistical analysis, and data visualization. I thrive in collaborative environments and am eager to contribute to innovative projects that push the boundaries of technology.
+ I am enthusiastic third-year Computer Science student specializing in Data Science at the  University of Kelaniya. 
 
 <br>🧠 I'm currently learning Data Analytics.
 <br>
