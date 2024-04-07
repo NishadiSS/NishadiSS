@@ -72,6 +72,10 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NishadiSS&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NishadiSS&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=NishadiSS&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
