@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishadi Sasanthika</h1>
 
-
-<p align="center">
-  <img width="50%" align="right"  src="https://th.bing.com/th/id/OIP.29vwXSUxlXXJkGLqP9hjXAHaGD?w=626&h=512&rs=1&pid=ImgDetMain" alt="codingGirl">
-</p>
- I am enthusiastic third-year Computer Science student specializing in Data Science at the  University of Kelaniya. 
+<h3 align="center">A passionate Python Developer </h3>
+<p> I am enthusiastic third-year Computer Science student specializing in Data Science at the  University of Kelaniya. </p>
+<div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>🧠 I'm currently learning Data Analytics.
 <br>
@@ -13,10 +12,15 @@
 ⚡ Love to travel during my free time.
 <br>
 📫 How to reach me: nishadisasanthika260@gmail.com
+</p>
+<br> 
 
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/nishadi-sasanthika-a90609299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+## 🌐 Connect With Me:
+
+  <a href="https://www.linkedin.com/in/nishadi-sasanthika-a90609299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="50" /></a>
+  <a href="https://www.youtube.com/channel/UC0x-iamygqt2e9Lf0cCo8kA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="45" width="50" /></a>
+  <br>
+ <br>
 
   ## 💼 Skills and Tools</h3>
 <p align="center"> 
