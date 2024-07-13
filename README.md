@@ -5,13 +5,13 @@
 <div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br>🧠 I'm currently learning Data Analytics.
+<br>🧠 I'm currently learning Python development.
 <br>
 👯 I’m looking to collaborate on
 <br>
 ⚡ Love to travel during my free time.
 <br>
-📫 How to reach me: nishadisasanthika260@gmail.com
+📫 How to reach me: nishsasanthika25@gmail.com
 </p>
 <br> 
 
