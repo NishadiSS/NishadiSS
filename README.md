@@ -66,7 +66,7 @@
   </tr>
 </table>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishadiSS&theme=radical&hide_border=false" alt="Imesha Dilshani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishadiSS&theme=radical&hide_border=false" alt="Nishadi Sasanthika" /></p>
   </div>
 
 ## 🔝 Top Contributed Repo
