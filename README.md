@@ -11,7 +11,7 @@
 <br>
 ⚡ Love to travel during my free time.
 <br>
-📫 How to reach me: nishsasanthika25@gmail.com
+📫 How to reach me: nishadisasanthika99@gmail.com
 </p>
 <br> 
 
